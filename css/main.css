@@ -2,20 +2,19 @@
 
 *,
 *::before,
-*::after{
-    box-sizing: border-box;
+*::after {
+  box-sizing: border-box;
 }
 
 :root {
-  --clr-primary: #36B37F;
-  --clr-dark: #172B4D;
-  --clr-light: #EBF0EE;
+  --clr-primary: #36b37f;
+  --clr-dark: #172b4d;
+  --clr-light: #ebf0ee;
   --fw-normal: 400;
   --fw-lightBold: 500;
   --fw-blod: 600;
   --fw-black: 700;
   --grid: 1fr;
-
 }
 
 body { 
