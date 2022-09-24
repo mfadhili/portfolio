@@ -95,9 +95,10 @@ main {
    
 
 }
-.handles {
+.handles 
+{
   float: left;
   margin: 0 0.7em;
   align-items: center;
-  margin-bottom: .5em;
+  margin-bottom: 0.5em;
 }
