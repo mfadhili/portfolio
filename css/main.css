@@ -17,8 +17,7 @@
   --grid: 1fr;
 }
 
-body { 
-
+body {
   margin: 0;
   font-family: 'Inter', sans-serif;
   font-size: 1.75rem;
@@ -34,7 +33,6 @@ h2,
 h3 { line-height: 1; }
 
 header {
-
   display: flex;
   height: 2.5rem;
   background-color: white;
@@ -42,8 +40,7 @@ header {
    
 }
 
-.welcome{
-
+.welcome {
   display: flex;
   margin: 0;
   padding: 0.5em;
@@ -54,7 +51,6 @@ header {
 }
 
 .menu {
-
   float: right;
   display: flex;
   grid-row: span 2;
@@ -62,18 +58,15 @@ header {
 }
 
 main {
-
   width: 90%;
   margin: 0 auto;
 }
 
 .headlines {
-
   margin-bottom: 4em;
 }
 
 .greetings {
-
   color: var(--clr-dark);
   font-weight: var(--fw-black);
   text-align: center;
@@ -81,7 +74,6 @@ main {
 }
 
 .intro {
-
   color: var(--clr-primary);
   font-weight: var(--fw-black);
   text-align: center;
@@ -89,8 +81,7 @@ main {
   margin-top: 0%;
 }
 
-.info__text{
-
+.info__text {
   font-weight: var(--fw-normal);
   font-size: 1.1em;
   text-align: center;
@@ -99,14 +90,12 @@ main {
 }
 
 .social__media {
-
   list-style-type: none;
   margin-top: 0;
    
 
 }
 .handles {
-
   float: left;
   margin: 0 0.7em;
   align-items: center;
