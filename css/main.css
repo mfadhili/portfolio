@@ -47,7 +47,7 @@ header {
   padding: 0.5em;
   font-weight: var(--fw-blod);
   font-size: 1em;
-  text-align:justify;
+  text-align: justify;
   line-height: 1.4em;
 }
 
@@ -84,7 +84,7 @@ main {
 
 .info__text {
   font-weight: var(--fw-normal);
-  font-size: .8em;
+  font-size: 0.8em;
   text-align: center;
 }
 
@@ -121,7 +121,7 @@ main {
 }
 
 .project1 {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   width: 100%;
   margin-bottom: 0.5em;
   background-image: url(/images/Card/Img\ Plaholder.svg);
@@ -129,12 +129,10 @@ main {
   background-size: cover;
 }
 
-
-
 .project__container {
   background-color: #36b37f;
   padding: 2px 16px;
-} */
+}
 
 .card {
   display: flex;
@@ -149,7 +147,7 @@ main {
 }
 
 .card__img {
-  position:relative;
+  position: relative;
 }
 
 .card__img img {
@@ -159,7 +157,7 @@ main {
 }
 
 .project__content {
-  padding: 0 .5em
+  padding: 0 0.5em;
 }
 
 .proj__title {
@@ -175,7 +173,6 @@ main {
 
 .tech__stack {
   list-style-type: none;
-  margin-top: 0;
   align-items: center;
   margin: 0 auto;
   padding-left: 0;
@@ -186,7 +183,7 @@ main {
   flex-direction: row;
   align-items: center;
   padding: 8px 12px;
-  margin: .5em;
+  margin: 0.5em;
   background: var(--clr-light);
   border-radius: 4px;
   flex: none;
@@ -204,7 +201,7 @@ main {
   flex-direction: row;
   align-items: center;
   padding: 8px 12px;
-  margin: .5em;
+  margin: 0.5em;
   background: var(--clr-primary);
   border-radius: 4px;
   flex: none;
@@ -260,7 +257,6 @@ main {
 
 .small_resume img {
   width: 40%;
-
 }
 
 .small__resume_title {
