@@ -274,28 +274,28 @@ main {
 
 }
 .small_resume {
-  
- 
   box-sizing: border-box;
   background-color:var(--clr-light);
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.15);
   border-radius: 10px;
   margin-bottom: 1rem;
 }
+
 .small_resume img {
   width: 40%;
 
 }
+
 .small__resume_title {
   margin-top: 0;
   margin-bottom: 0.05em;
-  
-  text-align: center;
+    text-align: center;
   color: var(--clr-dark);
   font-weight: var(--fw-blod);
   font-size: 1.2em;
 
 }
+
 .small__resume_highlights {
   list-style-type: none;
   margin-top: 0;
@@ -304,21 +304,18 @@ main {
   padding-left: 5%;
   padding-right: 5%;
 }
+
 .highlights {
   display: inline-block;
   flex-direction: row;
   align-items: center;
   padding: 8px 8px;
-
   margin: 0.3em;
-
-  background: #FFFFFF;
+  background: #fff;
   border-radius: 5px;
-
   flex: none;
   order: 3;
   flex-grow: 0;
-
   font-weight: var(--fw-blod);
   font-size: 0.5em;
   color: var(--clr-primary);
