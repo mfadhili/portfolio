@@ -1,62 +1,53 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project: POrtfolio Project
 
-> Description the project.
+> This is my first webdesign and it happens to be my portforlio, _Though the skills are still in the oven_   :wink: .
+Hope you enjoy it. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML for content
+- CSS for styling
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+What do you need ?
 
 ### Prerequisites
 
+No major requisites, an IDE like VSCode and a browser will do.
+
 ### Setup
+ 
+ Its plug an play
 
 ### Install
 
+As at now, no packages to install
+
 ### Usage
+
+Current, this is the mobile view 
 
 ### Run tests
 
+Coming soon
+
 ### Deployment
 
-
+Open `index.html` using a web browser to deploy the web page
 
 ## Authors
 
-👤 **Author1**
+👤 **My Contacts**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/mfadhili)
+- Twitter: [@twitterhandle](https://twitter.com/Mfadhili3)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mfadhili-gitau-b9294122b/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -64,12 +55,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Updating this ...
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](/MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
