@@ -362,5 +362,10 @@ main {
   border-style: none;
   border-radius: 5px;
   font-weight: var(--fw-lightBold);
+}
 
+.form_submit:hover {
+  /* Changes for pair prgramming */
+  background-color: var(--clr-primary);
+  color: var(--clr-light);
 }
