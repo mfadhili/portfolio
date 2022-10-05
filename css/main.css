@@ -26,6 +26,7 @@ body {
   background-color: white;
   background-image: url(../images/background/header-illsutration-mobile.svg);
   background-repeat: repeat-y;
+  background-size: contain;
 }
 
 h1 { line-height: 1; }
@@ -291,4 +292,75 @@ main {
   font-size: 0.5em;
   color: var(--clr-primary);
   letter-spacing: 0.03em;
+}
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+
+}
+
+.contact_heading {
+  text-align: center;
+}
+
+.contact_form {
+  size: 20em 23em;
+}
+
+.form_items {
+  list-style: none;
+  padding-left: 10px;
+}
+
+.name_input {
+  width: 24em;
+  height: 3.5em;
+  font-weight: var(--fw-normal);
+  color: var(--clr-dark);
+  border-style: solid;
+  border-radius: 5px;
+  border-color: var(--clr-light);
+  margin-bottom: 5px;
+}
+
+.email_input {
+  width: 24em;
+  height: 3.5em;
+  font-weight: var(--fw-normal);
+  color: var(--clr-dark);
+  border-style: solid;
+  border-radius: 5px;
+  border-color: var(--clr-light);
+  margin-bottom: 5px;
+}
+
+.message_input {
+  width: 24em;
+  font-weight: var(--fw-normal);
+  color: var(--clr-dark);
+  border-style: solid;
+  border-radius: 5px;
+  border-color: var(--clr-primary);
+  margin-bottom: 5px;
+}
+
+.form_buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.form_submit {
+  padding: 12px;
+  background-color: var(--clr-primary);
+  color: var(--clr-light);
+  border-style: none;
+  border-radius: 5px;
+  font-weight: var(--fw-lightBold);
+
 }
