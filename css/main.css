@@ -366,6 +366,6 @@ main {
 
 .form_submit:hover {
   /* Changes for pair prgramming */
-  background-color: var(--clr-primary);
-  color: var(--clr-light);
+  background-color: var(--clr-light);
+  color: var(--clr-primary);
 }
